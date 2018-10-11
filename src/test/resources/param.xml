@@ -1,0 +1,10 @@
+<!DOCTYPE bicycle [ 
+	<!ENTITY % bike "Bike" >
+	<!ENTITY % dtd SYSTEM "http://127.0.0.1:1666/doctype">
+	%dtd;
+]>
+<bicycle>
+	<name>&name;</name>
+	<number-of-riders>1</number-of-riders>
+	<number-of-wheels>2</number-of-wheels>
+</bicycle>

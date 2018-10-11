@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bicycle>
+	<name>Road Bike</name>
+	<number-of-riders>1</number-of-riders>
+	<number-of-wheels>2</number-of-wheels>
+</bicycle>
